@@ -17,7 +17,7 @@
 
 The challenge is to build the back end for an e-commerce site. Configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
-A walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met is available on links below.
+A walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met is available on links below. Type the command below to run the program.
 
 ```
 node server.js
@@ -63,14 +63,14 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Screenshot
 
-![Insomia Interface](./resources/Images/Insomia.png)
+![Insomia Interface](./resources/Images/InsomiaScreen.png)
 
 ## Video
 
-A link to the [Video](https://drive.google.com/file/d/1MVwbB92lcddjPrpR3aCamBAOGCLEzmBJ/view):
+A link to the [Video](https://drive.google.com/file/d/1MnxTEpfjKBl_fYjkzBEdrf7i9exX2AQb/view):
 
 ```
-https://drive.google.com/file/d/1MVwbB92lcddjPrpR3aCamBAOGCLEzmBJ/view
+https://drive.google.com/file/d/1MnxTEpfjKBl_fYjkzBEdrf7i9exX2AQb/view
 
 ```
 
